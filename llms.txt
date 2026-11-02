@@ -12,3 +12,4 @@
 
 ## Product
 - [Paycheck Budget Spreadsheet](https://northlinebudget.gumroad.com/l/paycheck-budget): $24, Google Sheets and Excel, every payday of the year planned, bills, sinking funds, debt snowball/avalanche.
+- [Paycheck OS](https://northlinebudget.gumroad.com/l/paycheck-os): Notion budget template planned by paycheck, free version and $29 full version with savings goals, debt payoff planner and subscriptions; any currency.
